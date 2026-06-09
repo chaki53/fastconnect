@@ -8,8 +8,9 @@
 
 ### Быстрый и безопасный интернет на всех ваших устройствах
 
-[![Telegram](https://img.shields.io/badge/Telegram-канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fastconnect_app)
-[![Support](https://img.shields.io/badge/Поддержка-бот-0A84FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fastconnect_support_bot)
+[![Site](https://img.shields.io/badge/Сайт-dgy3.ru-34C759?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dgy3.ru/?utm_source=github&utm_medium=readme&utm_campaign=hub)
+[![Telegram](https://img.shields.io/badge/Telegram-канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vpnfast_news)
+[![Support](https://img.shields.io/badge/Поддержка-чат-0A84FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VpnFast_group)
 
 **Один аккаунт · Несколько устройств · 3 дня бесплатно**
 
@@ -45,12 +46,15 @@
 - 💬 Поддержка прямо в приложении
 - 🔄 Автообновление на всех платформах
 
-## 🌐 Сообщество
+## 🌐 Сообщество и ссылки
 
-| Платформа | Ссылка |
+| | Ссылка |
 |---|---|
-| Telegram-канал | [@fastconnect_app](https://t.me/fastconnect_app) |
-| Поддержка | [@fastconnect_support_bot](https://t.me/fastconnect_support_bot) |
+| 🌍 Сайт | [dgy3.ru](https://dgy3.ru/?utm_source=github&utm_medium=readme&utm_campaign=hub) |
+| 👤 Личный кабинет | [cabinet.mokansh.ru](https://cabinet.mokansh.ru/?utm_source=github&utm_medium=readme&utm_campaign=hub) |
+| 📰 Новостной канал | [@vpnfast_news](https://t.me/vpnfast_news) |
+| 💬 Чат / поддержка | [@VpnFast_group](https://t.me/VpnFast_group) |
+| 🤖 Telegram-бот | [@vipnfast_bot](https://t.me/vipnfast_bot?start=github_hub) |
 
 ---
 

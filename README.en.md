@@ -2,7 +2,9 @@
 
 [Русский](README.md) | **English**
 
-# ⚡ FastConnect
+<img src="assets/logo.png" width="128" alt="FastConnect"/>
+
+# FastConnect
 
 ### Fast and secure internet on all your devices
 

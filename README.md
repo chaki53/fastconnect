@@ -1,0 +1,59 @@
+<div align="center">
+
+**Русский** | [English](README.en.md)
+
+# ⚡ FastConnect
+
+### Быстрый и безопасный интернет на всех ваших устройствах
+
+[![Telegram](https://img.shields.io/badge/Telegram-канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fastconnect_app)
+[![Support](https://img.shields.io/badge/Поддержка-бот-0A84FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fastconnect_support_bot)
+
+**Один аккаунт · Несколько устройств · 3 дня бесплатно**
+
+</div>
+
+---
+
+## 📦 Загрузки
+
+| ОС | Скачать |
+|---|---|
+| **Android** | [![APK](https://img.shields.io/badge/APK-arm64--v8a%20(рекомендуется)-3DDC84?logo=android&logoColor=white)](https://github.com/chaki53/fastconnect-releases/releases/latest) [![APK](https://img.shields.io/badge/APK-universal-2E7D32?logo=android&logoColor=white)](https://github.com/chaki53/fastconnect-releases/releases/latest) |
+| **Android TV** | [![APK](https://img.shields.io/badge/APK-arm64--v8a-6750A4?logo=androidstudio&logoColor=white)](https://github.com/chaki53/fastconnect-releases/releases/latest) |
+| **Windows** | [![Setup](https://img.shields.io/badge/Setup-x64-0078D6?logo=windows&logoColor=white)](https://github.com/chaki53/fastconnect-pc-releases/releases/latest) |
+
+> 💡 Все ссылки ведут на последний релиз. Не знаете какой APK выбрать — берите `arm64-v8a` (подходит для 95% телефонов 2019 года и новее) или `universal`.
+
+## 📚 Репозитории релизов
+
+| Платформа | Репозиторий | Что внутри |
+|---|---|---|
+| 📱 Android / Android TV | [fastconnect-releases](https://github.com/chaki53/fastconnect-releases) | APK всех архитектур, журнал изменений, FAQ |
+| 💻 Windows | [fastconnect-pc-releases](https://github.com/chaki53/fastconnect-pc-releases) | Установщик, журнал изменений, FAQ |
+
+## ✨ Что умеет FastConnect
+
+- 🌍 Серверы в нескольких странах: Германия, Финляндия, Швейцария, Армения и другие
+- 🔐 Вход через Telegram, Email или 6-значный код (на ПК)
+- 💳 Все российские способы оплаты, сохранённые карты, автопродление
+- 🎁 Триал 3 дня, промокоды, реферальная программа, колесо фортуны
+- ⚙️ Per-App VPN (исключения для банков и госуслуг), автостарт
+- 🛡 PIN-код + биометрия, минимум разрешений
+- 💬 Поддержка прямо в приложении
+- 🔄 Автообновление на всех платформах
+
+## 🌐 Сообщество
+
+| Платформа | Ссылка |
+|---|---|
+| Telegram-канал | [@fastconnect_app](https://t.me/fastconnect_app) |
+| Поддержка | [@fastconnect_support_bot](https://t.me/fastconnect_support_bot) |
+
+---
+
+<div align="center">
+
+<sub>© FastConnect · Все права защищены</sub>
+
+</div>
